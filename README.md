@@ -8,7 +8,8 @@
 
 💬 Ask me about JavaScript, HTML, CSS
 
-📫 How to reach me joannanevesmalta@gmail.com
+📫 How to reach me:  <a href="mailto:joannanevesmalta@gmail.com" target="_blank">
+          myemail</a> 
 
 😄 Pronouns: she/her
 
