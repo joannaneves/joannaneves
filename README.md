@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Joanna Malta
+### Hi there :) I'm Joanna Malta
 
 🔭 I’m currently working as Freelancer
 
