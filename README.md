@@ -1,5 +1,6 @@
 <img src="https://clipchamp.com/static/88bb8fc56d817b40f1772ad4e615eaae/Simpson-GIF.gif"/>
-### Hi there :) I'm Joanna Malta
+
+**Hi there** :) I'm Joanna Malta
 
 🔭 I’m currently working as Freelancer
 
