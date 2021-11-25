@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning Front-end
 
-👨‍💻 All of my projects are available at joanna.dev
+👨‍💻 All of my projects are available at https://codepen.io/joannaneves
 
 💬 Ask me about JavaScript, HTML, CSS
 
