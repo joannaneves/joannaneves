@@ -1,4 +1,4 @@
-<img src="https://clipchamp.com/static/88bb8fc56d817b40f1772ad4e615eaae/Simpson-GIF.gif"/>
+<img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"/>
 
 **Hi there** :) I'm Joanna Malta
 
