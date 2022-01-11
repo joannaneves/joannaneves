@@ -1,6 +1,6 @@
-### Olá queridoss 👋
+### Olá queridoss 💗
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Quero contribuir em projetos que façam a diferença na vida dos usuários, garantindo segurança, tendo respeito e confiança, tornando a vida das pessoas melhores, criando soluções e resolvendo problemas.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
