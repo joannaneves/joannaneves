@@ -1,35 +1,67 @@
-<img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"/>
+### Olá queridoss 👋
 
-**Hi there** :) I'm Joanna Malta
+Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
-🔭 I’m currently working as Freelancer
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-🌱 I’m currently learning Front-end
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-👨‍💻 All of my projects are available at https://codepen.io/joannaneves
+```kotlin
+object Joanna {
+ val name = Joanna Neves Malta
+ val acknowledgements = Javascript
+ 
+ val primarySkillset = "ALGUMAS HABILIDADES"
+ val languages = listOf("Java", "HTML", "JavaScript", "CSS", "React", "Ruby") 
+}
+```
 
-💬 Ask me about JavaScript, HTML, CSS
+## **Linguagens e Ferramentas:**  
 
-📫 How to reach me:  <a href="mailto:joannanevesmalta@gmail.com" target="_blank">
-          myemail</a> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-😄 Pronouns: she/her
 
-⚡ Fun fact: I'm pharmacist, artist and musician.
+## **GitHub Estatísticas**
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=joannaneves&show_icons=true" alt="joannaneves"/> 
-</p>
+<a href="https://github.com/Joannaneves">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joannaneves&theme=dracula&hide_langs_below=1" />
+</a>
 
-<p align="center">
-<a href="https://codepen.io/joannaneves" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="joanna" height="20" width="20" /></a>
-<a href="https://twitter.com/doritosecheddar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mjoanna" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/joanna-neves-malta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joanna" height="20" width="20" /></a>
-<a href="https://instagram.com/joanna.malta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
-</p>
+<a href="https://github.com/JoannaNeves">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=joannaneves&show_icons=true&theme=dracula&line_height=27" alt="Joanna github stats"/>
+</a>
+
+ <a href="tel:41997226361" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ </a>
+ <a href="mailto:joannanevesmalta@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ </a>
+ <a href="https://www.instagram.com/joanna.malta" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+ </a>
+  <a href="https://www.twitter.com/doritosecheddar" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+  <a href="https://www.linkedin.com/in/joanna-neves-malta/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
+  <a href="https://pt.stackoverflow.com/users/265091/joanna-neves-malta" target="_blank">
+<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+ </a>
+<a href="https://www.twitch.tv/joannamalta" target="_blank">
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+ </a>
+<a href="https://steamcommunity.com/id/joannadarc/" target="_blank">
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+ </a>
+ <a href="https://account.xbox.com/pt-BR/Profile?xr=Joanna6034" target="_blank">
+<img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
+ </a>
