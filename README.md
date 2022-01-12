@@ -38,7 +38,9 @@ object Joanna {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joannaneves&show_icons=true&theme=dracula&line_height=27" alt="Joanna github stats"/>
 </a>
 
- <a href="tel:41997226361" target="_blank">
+## **Redes Sociais**
+
+ <a href="tel:+5541997226361" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  </a>
  <a href="mailto:joannanevesmalta@gmail.com" target="_blank">
