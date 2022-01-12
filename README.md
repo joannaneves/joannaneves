@@ -40,9 +40,6 @@ object Joanna {
 
 ## **Redes Sociais**
 
- <a href="tel:+5541997226361" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
- </a>
  <a href="mailto:joannanevesmalta@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>
