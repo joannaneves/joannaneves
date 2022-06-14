@@ -9,10 +9,10 @@ I want to contribute to projects that make a difference in the lives of users, e
 ```kotlin
 object Joanna {
  val name = Joanna Neves Malta
- val acknowledgements = Ruby
+ val acknowledgements = Node
  
  val primarySkillset = "SKILLS"
- val languages = listOf("Java", "HTML", "JavaScript", "CSS", "React", "Ruby") 
+ val languages = listOf("Node", "MongoDB", "Typescript", "HTML", "JavaScript", "CSS", "React", "Ruby") 
 }
 ```
 
