@@ -12,7 +12,7 @@ object Joanna {
  val acknowledgements = Node
  
  val primarySkillset = "SKILLS"
- val languages = listOf("Node", "MongoDB", "Typescript", "HTML", "JavaScript", "CSS", "React", "Ruby") 
+ val languages = listOf("Node", "MongoDB", "Lua", "C++", "Typescript", "HTML", "JavaScript", "CSS", "React", "Ruby") 
 }
 ```
 
