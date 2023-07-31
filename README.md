@@ -15,6 +15,9 @@ object Joanna {
  val languages = listOf("Node", "MongoDB", "Lua", "C++", "Typescript", "HTML", "JavaScript", "CSS", "React", "Ruby") 
 }
 ```
+<div align="center">
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=joannaneves&repo=joannaneves&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github da Joannaneves" height="40px" />
+</div>
 
 ## **Languages:**  
 
@@ -32,18 +35,25 @@ object Joanna {
 
 ## **GitHub Statistics**
 
-<a href="https://github.com/Joannaneves">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joannaneves&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/JoannaNeves">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=joannaneves&show_icons=true&theme=dracula&line_height=27" alt="Joanna github stats"/>
-</a>
-
-## **Social Media**
-
- <a href="https://www.instagram.com/joanna.malta" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Luk4x&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
+<img align="left" height="415px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
+<div align="right">
+  <img height="203px" src="https://luk4x-github-readme-stats.vercel.app/api?username=Luk4x&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
+  <img height="203px" src="https://streak-stats.demolab.com?user=Luk4x&theme=tokyonight&hide_border=true" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400" />
+</div>
+<hr>
+<div align="center">
+  <a href="https://open.spotify.com/intl-pt/track/0eFMbKCRw8KByXyWBw8WO7?si=d8a14816ecbb49c6" target="_blank">
+    <img src="https://jpimg.com.br/uploads/2017/11/archives/2017/08/16/4244782467-spotify-remove-musicas-com-mensagem-de-odio-reproducao.jpg" alt="Música que está tocando no Spotify de Joannaneves no momento" height="70px"/>
+  </a>
+</div>
+<hr>
+ <a href="https://www.linkedin.com/in/joanna-neves-malta/overlay/1635531966698/single-media-viewer/?profileId=ACoAACZwXUIBWMPWg51TmuxPa-dBjFWmM7rT8GU" target="_blank">
+<img src="https://github.com/joannaneves/joannaneves/blob/main/cv.png" height="28px" />
  </a>
   <a href="https://www.linkedin.com/in/joanna-neves-malta/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -54,9 +64,14 @@ object Joanna {
 <a href="https://www.twitch.tv/joannamalta" target="_blank">
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
  </a>
+  <a href="https://www.instagram.com/joanna.malta" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+ </a>
 <a href="https://steamcommunity.com/id/joannadarc/" target="_blank">
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
  </a>
  <a href="https://account.xbox.com/pt-BR/Profile?xr=Joanna6034" target="_blank">
 <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
  </a>
+
+ <img src="https://github.com/Luk4x/Luk4x/blob/main/images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
