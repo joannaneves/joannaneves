@@ -1,6 +1,10 @@
 ### HELLO EVERYONE! 💗
 
-I want to contribute to projects that make a difference in the lives of users, ensuring safety, having respect and trust, making people's lives better, creating solutions and solving problems.
+✌️ My name is Joanna and my story has always been filled with curiosity and knowledge. Since I was a child I loved learning new things. As technology advanced, I fell more and more in love with everything changing around me, changing with me.
+
+💻 I joined the area I always dreamed of in order to contribute to projects that make a difference in the lives of users, ensuring safety, respect and trust. I want to make people's lives better by creating solutions and solving problems.
+
+📚 Developer formed by UNOPAR, in addition to having completed several courses and bootcamps by OneBit Code, Origamid and others (HTML, CSS, JavaScript, C++, Ruby, Reactjs, Jquery, Bootstrap, Nodejs, React Native, SASS, Typescript, SQL) and aspiring to Software Engineer.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
 
