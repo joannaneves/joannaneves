@@ -65,9 +65,6 @@ object Joanna {
   <a href="https://pt.stackoverflow.com/users/265091/joanna-neves-malta" target="_blank">
 <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
  </a>
-<a href="https://www.twitch.tv/joannamalta" target="_blank">
-<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
- </a>
   <a href="https://www.instagram.com/joanna.malta" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
  </a>
